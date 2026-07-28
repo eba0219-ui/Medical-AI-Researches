@@ -24,7 +24,7 @@ A clinical decision-support framework designed for emergency stroke triage by in
 -  Hugging Face: https://huggingface.co/spaces/HussienThamer/Nad.AI
 
 - 📄 ResearchGate:
-  https://doi.org/10.13140/RG.2.2.32422.89925
+https://doi.org/10.13140/RG.2.2.32422.89925
 
 - 📦 Zenodo:
   https://doi.org/10.5281/zenodo.21298311
@@ -91,5 +91,4 @@ Open-access manuscript available via ResearchGate and Zenodo.
 ---
 
 # 📜 License
-
 Released under the MIT License.
