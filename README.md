@@ -77,38 +77,9 @@ using
 
 ---
 
-# 🏥 Clinical Applications
-
-✅ Hyperacute Stroke Triage
-
-✅ Brain Tumor Classification
-
-✅ Clinical Decision Support Systems
-
-✅ Explainable Artificial Intelligence
-
-✅ Emergency Radiology
-
-✅ Neuroimaging
-
----
-
-# 🌍 Research Interests
-
-- Medical Artificial Intelligence
-- Computer Vision
-- Explainable AI
-- Multi-Modal Learning
-- Radiology Informatics
-- Neuroimaging
-- Clinical Decision Support
-- AI-assisted Diagnosis
-
----
-
 # 📈 Current Research Status
 
-### NadHed.AI
+### **NadHed.AI**
 
  Submitted to
 
@@ -120,7 +91,7 @@ Under Peer Review
 
 ---
 
-### HydroField.AI
+### **HydroField.AI**
 
  Research Preprint Released
 
