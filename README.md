@@ -1,30 +1,133 @@
-# NadHed.AI 
+# Medical AI Research Portfolio
 
-## A Hybrid Multi-Modal Artificial Intelligence Framework for Hyperacute Stroke Detection and Emergency Clinical Triage
+## Explainable Multi-Modal Artificial Intelligence Frameworks for Clinical Decision Support
 
----
-## 📊 Current Status
-* **Research Manuscript:** Submitted to Biomedical Signal Processing and Control (Elsevier).
-* Manuscript ID: BSPC-D-26-12922. Currently under peer review.
-
----
-## 🚀 Live Demo & Research Links
-* **Live Interactive Web App (Hugging Face Spaces):** [Try NadHed.AI Here](https://huggingface.co/spaces/nadhedai/Nad.AI)
-* **ResearchGate Preprint (Theoretical Framework):** [DOI: 10.13140/RG.2.2.32422.89925](https://doi.org/10.13140/RG.2.2.32422.89925)
-* **Zenodo Archive (Software & Code Artifacts):** [DOI: 10.5281/zenodo.21298311](https://doi.org/10.5281/zenodo.21298311)
+This repository showcases my research in Medical Artificial Intelligence, focusing on deep learning systems that combine diagnostic medical imaging with structured clinical information to improve real-world clinical decision support.
 
 ---
 
-## 📝 Project Overview
-**NadHed.AI** is an advanced medical imaging and clinical decision-support pipeline designed to optimize early stroke classification and triage in emergency settings. It combines non-contrast Computed Tomography (NCCT) scan analysis with patient clinical symptoms to provide a robust, dual-modality clinical assessment.
+# 🚀 Featured Projects
 
-### 🛠️ Key Technical Features
-* **Deep Learning Core:** Powered by an optimized **EfficientNetV2-L** neural network architecture.
-* **Image Preprocessing:** Enhanced using **Contrast Limited Adaptive Histogram Equalization (CLAHE)** to maximize ischemia and hemorrhage visibility on noisy head CT scans.
-* **Multi-Modal Integration:** Dynamically fuses pixel-level visual features with high-stakes clinical symptoms (e.g., coma, thunderclap headache, increased intracranial pressure) to prevent shortcut learning.
-* **Deployment Ready:** Packaged with a light, responsive **Gradio** web interface optimized for mobile and clinical workstations.
+##  NadHed.AI
+### Hybrid Multi-Modal AI for Hyperacute Stroke Detection
+
+A clinical decision-support framework designed for emergency stroke triage by integrating:
+
+- Non-Contrast Head CT (NCCT)
+- Clinical Symptoms
+- EfficientNetV2-L
+- CLAHE Image Enhancement
+- TensorFlow Lite Deployment
+
+### 🔗 Links
+
+-  Hugging Face
+  https://huggingface.co/spaces/HussienThamer/Nad.AI
+
+- 📄 ResearchGate
+  https://doi.org/10.13140/RG.2.2.32422.89925
+
+- 📦 Zenodo
+  https://doi.org/10.5281/zenodo.21298311
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+##  HydroField.AI
+### Explainable Multi-Modal Brain Tumor MRI Classification
+
+HydroField.AI is an explainable clinical decision-support framework for differentiating
+
+- Glioma
+- Meningioma
+- Pituitary Adenoma
+
+using
+
+- Contrast-Enhanced T1-weighted MRI (T1CE)
+- Clinical Symptoms
+- Ensemble Deep Learning
+- Grad-CAM++
+
+### 🔗 Links
+
+-  Hugging Face
+  https://huggingface.co/spaces/HussienThamer/HydroField
+
+- 📄 ResearchGate
+  https://www.researchgate.net/publication/410905985_HydroFieldAI_A_Multi-Modal_Explainable_Deep_Learning_Framework_for_Tri-Class_Brain_Tumor_Diagnosis_via_Late_Fusion_of_T1CE_MRI_and_Clinical_Symptoms
+
+- 📦 Zenodo
+  https://zenodo.org/records/21648788
+
+---
+
+# 💻 Technical Stack
+
+- TensorFlow
+- TensorFlow Lite
+- PyTorch
+- Python
+- OpenCV
+- Gradio
+- CLAHE
+- EfficientNetV2
+- DenseNet
+- Explainable AI (Grad-CAM++)
+- Medical Image Processing
+
+---
+
+# 🏥 Clinical Applications
+
+✅ Hyperacute Stroke Triage
+
+✅ Brain Tumor Classification
+
+✅ Clinical Decision Support Systems
+
+✅ Explainable Artificial Intelligence
+
+✅ Emergency Radiology
+
+✅ Neuroimaging
+
+---
+
+# 🌍 Research Interests
+
+- Medical Artificial Intelligence
+- Computer Vision
+- Explainable AI
+- Multi-Modal Learning
+- Radiology Informatics
+- Neuroimaging
+- Clinical Decision Support
+- AI-assisted Diagnosis
+
+---
+
+# 📈 Current Research Status
+
+### NadHed.AI
+
+ Submitted to
+
+Biomedical Signal Processing and Control (Elsevier)
+
+Status:
+
+Under Peer Review
+
+---
+
+### HydroField.AI
+
+ Research Preprint Released
+
+Open-access manuscript available via ResearchGate and Zenodo.
+
+---
+
+# 📜 License
+
+Released under the MIT License.
