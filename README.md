@@ -52,7 +52,7 @@ using:
 - 📄 ResearchGate:
 https://doi.org/10.13140/RG.2.2.13873.54889
 - 📦 Zenodo:
-  https://zenodo.org/records/21648788
+  https://doi.org/10.5281/zenodo.21663109
 
 ---
 
