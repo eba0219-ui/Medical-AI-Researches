@@ -85,9 +85,12 @@ Under Peer Review
 ---
 
 ### **HydroField.AI**
- Research Preprint Released
-Open-access manuscript available via ResearchGate and Zenodo.
+ Submitted to:
+ International Journal of Computer Assisted Radiology and Surgery
+(Springe)
 
+Status:
+With editor
 ---
 
 # 📜 License
