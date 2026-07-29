@@ -50,7 +50,7 @@ using:
 -  Hugging Face: https://huggingface.co/spaces/HussienThamer/HydroField
 
 - 📄 ResearchGate:
-  10.13140/RG.2.2.13873.54889
+https://doi.org/10.13140/RG.2.2.13873.54889
 - 📦 Zenodo:
   https://zenodo.org/records/21648788
 
