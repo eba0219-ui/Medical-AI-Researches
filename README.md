@@ -49,8 +49,8 @@ using:
 
 -  Hugging Face: https://huggingface.co/spaces/HussienThamer/HydroField
 
-- 📄 ResearchGate: https://www.researchgate.net/publication/410905985_HydroFieldAI_A_Multi-Modal_Explainable_Deep_Learning_Framework_for_Tri-Class_Brain_Tumor_Diagnosis_via_Late_Fusion_of_T1CE_MRI_and_Clinical_Symptoms
-
+- 📄 ResearchGate:
+  10.13140/RG.2.2.13873.54889
 - 📦 Zenodo:
   https://zenodo.org/records/21648788
 
