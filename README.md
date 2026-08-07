@@ -85,9 +85,7 @@ Under Peer Review
 ---
 
 ### **HydroField.AI**
- Submitted to:
- International Journal of Computer Assisted Radiology and Surgery
-(Springe)
+ Biomedical Signal Processing and Control (Elsevier)
 
 Status:
 With editor
