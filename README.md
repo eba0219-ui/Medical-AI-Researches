@@ -78,7 +78,9 @@ https://doi.org/10.13140/RG.2.2.13873.54889
 
  Submitted to:
 Biomedical Signal Processing and Control (Elsevier)
+
 Manuscript Number: BSPC-D-26-12922
+
 Status:
 Under Peer Review
 
@@ -86,6 +88,7 @@ Under Peer Review
 
 ### **HydroField.AI**
  Biomedical Signal Processing and Control (Elsevier)
+ 
 manuscript number: BSPC-D-26-14921
 
 Status:
